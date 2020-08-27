@@ -1,4 +1,7 @@
+# Node modules
 node_modules/**/*
+
+# Expo
 .expo/*
 npm-debug.*
 *.jks
@@ -11,3 +14,7 @@ web-build/
 
 # macOS
 .DS_Store
+
+# Yarn
+yarn.*
+yarn-*
